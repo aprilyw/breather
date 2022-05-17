@@ -12,3 +12,7 @@ a custom guided breathing app designed & developed by sophia and april :)
 - [ ] code up designs
 	- [ ] look into adding react-three-fiber & 3d assets to react native applications
 - [ ] transition screens smoothly
+
+## figma
+https://www.figma.com/file/aprASI2YE2BekVD3tUZQLi/Breathing?node-id=0%3A1
+https://www.figma.com/file/xF4FUMU66n7P6b8eULsBG8/Breather
